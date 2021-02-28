@@ -8,7 +8,7 @@ document.getElementById("pgh1").innerText+=type;
 if (type.toLowerCase()=='yes'){
     alert('this page is for customers only!');
     
-}
+e--;}
 else if(type.toLowerCase()=='no'){
       let cusType=prompt("what type of disease you search a device for?[covede19 heart-diseases Diabetes]");
     console.log("what type of disease you search a device for?[covede19 heart-diseases Diabetes]");
